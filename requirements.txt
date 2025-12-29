@@ -13,4 +13,12 @@ uvicorn
 python-multipart
 
 
-##-e .
+## -e .
+
+
+#  -e . means:
+#  -e → editable / development mode
+#  . → current project folder
+#  Uses setup.py, install this project using setup.py, but don’t copy files
+#  Changes in code reflect instantly
+#  Used only during development
