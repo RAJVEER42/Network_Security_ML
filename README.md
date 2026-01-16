@@ -1,8 +1,5 @@
 # Network_Security_ML
 
-State-of-the-art machine learning for network security: detection, analysis, and hardening. A research-and-engineering focused repository that collects datasets, reproducible pipelines, models, and evaluation suites for network intrusion detection, anomaly detection, and related security tasks. Designed so you can reproduce experiments, extend models, and explain results — everything you need to discuss this project confidently in technical interviews (including FAANG-level conversations).
-
-Status: Early / Research-ready — see Quickstart to run training and evaluation locally.
 
 ---
 
